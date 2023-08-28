@@ -1,5 +1,0 @@
-{{#user}}
-Name: Divyanshu khatri
-Skills: HTML, CSS, JS, Next.js
-Email: trucoder786@gmail.com
-{{/user}}
